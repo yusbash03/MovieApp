@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "MovieApp",
-    "slug": "MovieApp",
+    "name": "CineVerse",
+    "slug": "C-Verse",
+    "description":"An app for movies and tv shows",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/appicon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/appicon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
